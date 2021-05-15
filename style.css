@@ -3,3 +3,47 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  text-align: center;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+figure{
+  text-align: center;
+}
+
+.body{
+  text-align: center;
+}
+
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: blanchedalmond;
+}
+
+#featured-property p{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#details div{
+  float: left;
+  text-align: center;
+  background-color: blanchedalmond;
+  padding-left: 91px;
+  padding-right: 90px;
+  padding-bottom: 5px;
+}
+
+a:link, a:visited{
+  color: black;
+}
